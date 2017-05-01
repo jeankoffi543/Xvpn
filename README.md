@@ -14,3 +14,5 @@ Xvpn will show you all your availables vpn Server list and give you a choice.
 2- put this files in vpndir
 3- go to conf_dir to edit xvpn.conf and set XVPN_DIR="your vpn file"
 4- run xvpn script
+
+must be run with root privillege
